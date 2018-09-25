@@ -1,0 +1,6 @@
+Kompilacja:
+gcc -c Part3.c Part2.c Part1.c Part4.c Part5.c TheGame.c
+gcc -o GRA TheGame.o Part1.o Part2.o Part3.o Part4.o Part5.o
+./GRA
+
+Gra rozpoczyna się od TheGame.c i w trakcie rozgrywki uruchamiane są przez siebie nawzajem kolejne części Part1,Part2,Part3,Part4,Part5.
