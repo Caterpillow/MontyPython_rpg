@@ -68,7 +68,7 @@ void Part3_v2()
 {
 	AGE=24;
 	printf("Znajdujesz sie w namiocie wojskowym.\n"
-	 "Wyświetlają film instruktarzowy, jak nie zachowywać się w samym środku walki\n"
+	 "Wyświetlają film instruktażowy, jak nie zachowywać się w samym środku walki\n"
 	 "Dowódca: Ale wojna to nie tylko zabawa. Wystarczy, zatrzymaj film.\n"
 	 "Przyjemnie jest nabijać się z armii,\n"
 	 "lecz biorąc pod uwagę sens życia\n"
